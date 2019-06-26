@@ -3,7 +3,7 @@
 Dispositivo de automação residencial baseado em mensagens enviandas para um Bot do Telegram que se 
 comunica com a ESP32 Development Board
 
-##Como usar
+## Como usar
 
 O Nome de Usuário do Bot é : @LabEletronica_bot
 Para receber o menu com os comando basta enviar "/start" para o Bot
